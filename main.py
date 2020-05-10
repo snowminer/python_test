@@ -1,4 +1,2 @@
-print ('hi ')
-print('Chris de jager')
-print('next line')
-print ('hi again')
+name =input('What is your name?')
+print('hello',name)
