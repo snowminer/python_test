@@ -1,1 +1,2 @@
-print ('hi 1')
+print ('hi ')
+print('Chris de jager')
